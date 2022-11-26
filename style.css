@@ -1,0 +1,19 @@
+img
+{
+    position: absolute;
+}
+.img1
+{
+top: 50%;
+left: 50%;
+}
+#img2
+{
+    top: 0%;
+    right: 50%; 
+}
+#img3
+{
+    top: 50%;
+    right: 50%; 
+}
